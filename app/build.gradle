@@ -46,9 +46,7 @@ dependencies {
     // IjkPlayer 核心 + armv7a +arm64库
     implementation 'tv.danmaku.ijk.media:ijkplayer-java:0.8.8'
     implementation 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8'
-    implementation 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8
-
-'     
+    implementation 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8'    
 
 
     // ExoPlayer 核心库 (兼容 SDK 19)
